@@ -1,0 +1,2 @@
+C:\Users\Yumil\Downloads\Repositorios\COARV_TutoOpenGL\OpenGL_TutoInstall\x64\Debug\OpenGL_TutoInstall.exe
+C:\Users\Yumil\Downloads\Repositorios\COARV_TutoOpenGL\OpenGL 4_Organizing\x64\Debug\OpenGL 4_Organizing.exe

@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Le répertoire intermédiaire (x64\Debug\) contient des fichiers partagés provenant d'un autre projet (OpenGL_TutoInstall.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
+  glad.c
+  Main.cpp
+  OpenGL_TutoInstall.vcxproj -> C:\Users\Yumil\Downloads\Repositorios\COARV_TutoOpenGL\OpenGL 4_Organizing\x64\Debug\OpenGL 4_Organizing.exe
